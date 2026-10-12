@@ -1,3 +1,6 @@
 spring:
   application:
     name: devops-automation
+
+server:
+  port: 8081
